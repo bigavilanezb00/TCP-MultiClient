@@ -5,7 +5,6 @@ module com.example.tcpmulticlient {
 
 
     opens com.example.tcpmulticlient to javafx.fxml;
-    exports com.example.tcpmulticlient.TCP;
     opens com.example.tcpmulticlient.TCP to javafx.fxml;
     exports com.example.tcpmulticlient.TCP.Tasca2;
     opens com.example.tcpmulticlient.TCP.Tasca2 to javafx.fxml;
