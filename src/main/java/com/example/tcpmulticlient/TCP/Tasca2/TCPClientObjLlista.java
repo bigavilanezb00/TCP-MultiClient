@@ -1,4 +1,4 @@
-package com.example.tcpmulticlient.TCP;
+package com.example.tcpmulticlient.TCP.Tasca2;
 
 import java.io.*;
 import java.net.InetAddress;
